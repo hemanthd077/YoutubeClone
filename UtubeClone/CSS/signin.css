@@ -25,17 +25,19 @@
 
 input[type="text"] {
     margin-top: 139px;
-    margin-left: 79px;
+    margin-left: 60px;
     width: 300px;
     height: 40px;
+    padding: 0px 15px;
     border-radius: 9px;
     border-style: none;
 }
 input[type="password"] {
-    margin-left: 79px;
-    margin-top: 1px;
+    margin-top: 5px;
+    margin-left: 60px;
     width: 300px;
     height: 40px;
+    padding: 0px 15px;
     border-radius: 9px;
     border-style: none;
 }
